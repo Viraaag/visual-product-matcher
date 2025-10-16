@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Beige Purse",
+    "category": "Accessories",
+    "image": "/images/beige_purse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Black Analog Watch",
+    "category": "Jewelry",
+    "image": "/images/black_analog_watch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Black Formal Shoes",
+    "category": "Footwear",
+    "image": "/images/black_formal_shoes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Black Jacket",
+    "category": "General",
+    "image": "/images/black_jacket.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Black Lower",
+    "category": "General",
+    "image": "/images/black_lower.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Black Pant",
+    "category": "General",
+    "image": "/images/black_pant.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Black Purse",
+    "category": "Accessories",
+    "image": "/images/black_purse.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Black Shorts",
+    "category": "General",
+    "image": "/images/black_shorts.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Black Tshirt",
+    "category": "Clothing",
+    "image": "/images/black_tshirt.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Black Watch",
+    "category": "Jewelry",
+    "image": "/images/black_watch.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Black Women Frock",
+    "category": "General",
+    "image": "/images/black_women_frock.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Black Women Tshirt",
+    "category": "Clothing",
+    "image": "/images/black_women_tshirt.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Blue Cap",
+    "category": "General",
+    "image": "/images/blue_cap.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Blue Formal Shirt",
+    "category": "Clothing",
+    "image": "/images/blue_formal_shirt.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Blue Shirt",
+    "category": "Clothing",
+    "image": "/images/blue_shirt.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Blue Slippers",
+    "category": "General",
+    "image": "/images/blue_slippers.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Blue Women Tshirt",
+    "category": "Clothing",
+    "image": "/images/blue_women_tshirt.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Brown Formal Shoes",
+    "category": "Footwear",
+    "image": "/images/brown_formal_shoes.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Brown Pant",
+    "category": "General",
+    "image": "/images/brown_pant.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Brown Purse",
+    "category": "Accessories",
+    "image": "/images/brown_purse.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Brown Sandal",
+    "category": "General",
+    "image": "/images/brown_sandal.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Brown Shoes",
+    "category": "Footwear",
+    "image": "/images/brown_shoes.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Denim Skirt",
+    "category": "General",
+    "image": "/images/denim skirt.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Green Purse",
+    "category": "Accessories",
+    "image": "/images/green_purse.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Green Shirt",
+    "category": "Clothing",
+    "image": "/images/green_shirt.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Green Slippers",
+    "category": "General",
+    "image": "/images/green_slippers.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Grey Lower",
+    "category": "General",
+    "image": "/images/grey_lower.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Grey Pant",
+    "category": "General",
+    "image": "/images/grey_pant.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Grey Shoes",
+    "category": "Footwear",
+    "image": "/images/grey_shoes.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Maroon Women Tshirt",
+    "category": "Clothing",
+    "image": "/images/maroon_women_tshirt.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Navyblue Jeans",
+    "category": "General",
+    "image": "/images/navyblue_jeans.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Orange Watch",
+    "category": "Jewelry",
+    "image": "/images/orange_watch.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Pink Frock",
+    "category": "General",
+    "image": "/images/pink_frock.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Pink Women Tshirt",
+    "category": "Clothing",
+    "image": "/images/pink_women_tshirt.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Printed Black Tshirt",
+    "category": "Clothing",
+    "image": "/images/printed_black_tshirt.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Purple Women Tshirt",
+    "category": "Clothing",
+    "image": "/images/purple_women_tshirt.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Red Purse",
+    "category": "Accessories",
+    "image": "/images/red_purse.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Red Shirt",
+    "category": "Clothing",
+    "image": "/images/red_shirt.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Red Shoes",
+    "category": "Footwear",
+    "image": "/images/red_shoes.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Red Tshirt",
+    "category": "Clothing",
+    "image": "/images/red_tshirt.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Sandals",
+    "category": "General",
+    "image": "/images/sandals.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Shorts",
+    "category": "General",
+    "image": "/images/shorts.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Silver Analog Watch",
+    "category": "Jewelry",
+    "image": "/images/silver_analog_watch.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Silver Watch",
+    "category": "Jewelry",
+    "image": "/images/silver_watch.jpg"
+  },
+  {
+    "id": 45,
+    "name": "White Shirt",
+    "category": "Clothing",
+    "image": "/images/white_shirt.jpg"
+  },
+  {
+    "id": 46,
+    "name": "White Shorts",
+    "category": "General",
+    "image": "/images/white_shorts.jpg"
+  },
+  {
+    "id": 47,
+    "name": "White Skirt",
+    "category": "General",
+    "image": "/images/white_skirt.jpg"
+  },
+  {
+    "id": 48,
+    "name": "White Tshirt",
+    "category": "Clothing",
+    "image": "/images/white_tshirt.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Yellow Shoes",
+    "category": "Footwear",
+    "image": "/images/yellow_shoes.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Yellow Tshirt",
+    "category": "Clothing",
+    "image": "/images/yellow_tshirt.jpg"
+  }
+]
