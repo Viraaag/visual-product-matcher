@@ -1,4 +1,18 @@
 // pages/api/match.js
+// Add near the top of /pages/api/match.js
+import fetch from "node-fetch";
+
+async function getEmbeddingFromHuggingFace(imageUrl) {
+  const response = await fetch("https://api-inference.huggingface.co/pipeline/feature-extraction/openai/clip-vit-base-patch32", {
+    headers: { Authorization: `Bearer ${process.env.HUGGINGFACE_TOKEN}` },
+    method: "POST",
+    body: JSON.stringify({ inputs: imageUrl }),
+  });
+  const result = await response.json();
+  if (Array.isArray(result)) return result[0]; // normalized embedding
+  throw new Error("Invalid embedding response");
+}
+
 import formidable from "formidable";
 import fs from "fs/promises";
 import path from "path";
@@ -62,7 +76,8 @@ export default async function handler(req, res) {
     const { imageUrl } = body;
     if (!imageUrl) return res.status(400).json({ error: "imageUrl missing" });
 
-    const embedding = await getPythonEmbedding(imageUrl, true);
+    const embedding = await getEmbeddingFromHuggingFace(imageUrl);
+
     const results = rankSimilarities(embedding, embeddings, products);
 
     return res.status(200).json({ results, queryImage: imageUrl });
